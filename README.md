@@ -13,7 +13,7 @@ Sur Python j'ai progammé un code pour résoudre des théorêmes de mathématiqu
 en discutant de sujets diverses. À 14h, j'ai eu une réunion avec
 l'agente marketing pour qu'elle m'explique son métier,
 qu'est ce qu'il apporte à l'entreprise ce qu'elle fait pendant la journée,
-et enfin le produit que l'entreprise vend aux grandes entreprises. Juste après j'ai
+et enfin le produit que Antidot vend aux grandes entreprises. Juste après j'ai
 enchainé avec une deuxième réunion cette fois à distance avec une développeuse d'une 
 certaine équipe "Search". Pareil, elle m'a présenter son métier de développeur.
 Enfin,vers 17h30 avec Olivier,nous sommes rentrés en vélo car oui, le soir je dors
