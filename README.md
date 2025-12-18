@@ -12,6 +12,7 @@ def thales(a:int|None,b:int|None,c:int|None):
             print(a, b, c, d)
         return (d*c)/a
 ```
+
  Tout d'abord, je suis allé à l'entreprise Antidot en vélo avec Olivier.
    En arrivant aux bureaux, Olivier (mon tuteur de stage) m'a mis sur un bureau
    à côté de lui. durant cette première matinée, il m'avait préparé 
@@ -28,6 +29,23 @@ Enfin,vers 17h30 avec Olivier,nous sommes rentrés en vélo car oui, le soir je 
 chez lui et je passe la semaine avec lui et sa famille.
 
 ### Jour 2:
+
+```
+def paire(l):
+    result = []
+    for i in l:
+        if i % 2 == 0:
+            result.append(i)
+    return result
+
+
+def impaire(l):
+    result = []
+    for i in l:
+        if i % 2 == 1:
+            result.append(i)
+    return result
+```
 
    Le matin, je suis allé à l'entreprise en métro car il pleuvait, mais au fur et à
 mesure de la journée, il a fait beau. Ensuite j'ai eu une réunion avec l'assisstante
@@ -46,6 +64,27 @@ de chiffres dans le but d'ordonner les informations.
 
 ### Jour 3:
 
+```
+class Parallelepiped:
+
+
+    def __init__(self, l, L):
+        self.l = l
+        self.L = L
+
+    def perimeter(self):
+        return self.l * 2 + self.L * 2
+
+    def area(self):
+        return self.l * self.L
+
+p = Parallelepiped(6, 7)
+print(p.perimeter())
+print('perimetre parallelepipede')
+print(p.area())
+print('aire parallelepipede')
+```
+
 Ce matin, j'ai continué mon programme Python avec un code de calcul pour calculer
 l'aire et le périmètre d'une figure géométrique . Puis
 de 11h à 12h, j'ai assissté à une réunion avec plein de membres qui venaient
@@ -60,6 +99,28 @@ cette fois-ci avec des formes géométriques plus compliquées: le cercle,
 le parallélépipède et le trapèze.
 
 ### Jour 4:
+
+```
+auteurs = {
+    "da vinci code": "dan brown",
+    "inferno": "dan brown"}
+
+def build_invert():
+    inverted = {}
+    for titre, auteur in auteurs.items():
+        if auteur not in inverted:
+            inverted[auteur] = []
+        inverted[auteur].append(titre)
+    return inverted
+
+livres = build_invert()
+
+def qui_ecrit(titre):
+    return auteurs[titre]
+
+def qua_ecrit(rauteur):
+    return livres[rauteur]
+```
 
 Durant cette matinée, j'ai découvert le site de github. C'est un logiciel qui te
 permet d'écrire tout ce que tu veux, n'importe comment. Dessus, j'ai écrit le
