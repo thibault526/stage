@@ -2,7 +2,7 @@
 
 ## fichier qui décrit le stage dans l'entreprise "Antidot" du 15 décembre au 19 décembre:
 
-### Jour1:
+### Jour 1:
 
  Tout d'abord, je suis allé à l'entreprise Antidot en vélo avec Olivier.
    En arrivant aux bureaux, Olivier (mon tuteur de stage) m'a mis sur un bureau
