@@ -6,7 +6,7 @@
 
  Tout d'abord, je suis allé à l'entreprise Antidot en vélo avec Olivier.
    En arrivant aux bureaux, Olivier (mon tuteur de stage) m'a mis sur un bureau
-   à côté de lui. durant cette première matinée, Olivier m'avait préparé 
+   à côté de lui. durant cette première matinée, il m'avait préparé 
  des petites activitées de codages sur le logiciel informatique Python.
 Sur Python j'ai progammé un code pour résoudre des théorêmes de mathématiques
  (Pythagore et Thalès). Le midi j'ai mangé avec 5-6 personnes de l'entreprise, 
