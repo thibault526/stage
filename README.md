@@ -4,8 +4,6 @@
 
 ### Jour1:
 
-#### Tout d'abord
-
  Tout d'abord, je suis allé à l'entreprise Antidot en vélo avec Olivier.
    En arrivant aux bureaux, Olivier (mon tuteur de stage) m'a mis sur un bureau
    à côté de lui. durant cette première matinée, Olivier m'avait préparé 
