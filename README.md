@@ -22,10 +22,10 @@ chez lui et je passe la semaine avec lui et sa famille.
 ### Jour 2:
 
    Le matin, je suis allé à l'entreprise en métro car il pleuvait, mais au fur et à
-mesure de la journée, il a fait beau. Ensuite j'ai une réunion avec l'assisstante
+mesure de la journée, il a fait beau. Ensuite j'ai eu une réunion avec l'assisstante
 RH (Ressources Humaines) qui, pendant 1h, m'a expliqué son métier. l'assisstante
-RH de l'entreprise s'occupe des liens entre les salariés de l'entreprise elle
-même.Elle vérifie si il n'y a pas de tensions au sein de l'entreprise ou bien
+RH de l'entreprise s'occupe des liens entre les salariés .Elle vérifie si il n'y a pas
+de tensions au sein de l'entreprise ou bien
 autre chose de grave. Elle vérifie aussi les droits du travail (si les salariés
 sont assez payés ou alors si les conditions de travail sont conformes aux lois,
 elle s'occupe aussi des recrutements et des licienciements...). Après, il était
@@ -33,7 +33,7 @@ midi. Alors Olivier et moi sommes partis nous chercher à manger. Puisque j'ai
 adoré le sandwich de la veille, j'ai repris le même. Vers 13h, je me suis retrouvé
 avec un petit groupe de salariés pour jouer à des jeux de sociétés d'ambiances
 assez rapides. Pendant l'après-midi, Olivier m'a appris à faire des dictionnaires
-à clé, des codes pour dire si un chiffre est pair/impair ou bien des listes
+avec une clé, des codes pour dire si un chiffre est pair/impair ou bien des listes
 de chiffres dans le but d'ordonner les informations.
 
 ### Jour 3:
