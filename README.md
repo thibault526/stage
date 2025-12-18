@@ -4,6 +4,14 @@
 
 ### Jour 1:
 
+```
+def thales(a:int|None,b:int|None,c:int|None):
+    
+        if a is not None and b is not None:
+            b = a + b
+            print(a, b, c, d)
+        return (d*c)/a
+```
  Tout d'abord, je suis allé à l'entreprise Antidot en vélo avec Olivier.
    En arrivant aux bureaux, Olivier (mon tuteur de stage) m'a mis sur un bureau
    à côté de lui. durant cette première matinée, il m'avait préparé 
