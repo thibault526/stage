@@ -22,11 +22,18 @@ Sur Python j'ai progammé un code pour résoudre des théorêmes de mathématiqu
 en discutant de sujets diverses. À 14h, j'ai eu une réunion avec
 l'agente marketing pour qu'elle m'explique son métier,
 qu'est ce qu'il apporte à l'entreprise ce qu'elle fait pendant la journée,
-et enfin le produit que Antidot vend aux grandes entreprises. Juste après j'ai
-enchainé avec une deuxième réunion cette fois à distance avec une développeuse d'une 
-certaine équipe "Search". Pareil, elle m'a présenté son métier de développeur/développeuse.
-Enfin,vers 17h30 avec Olivier,nous sommes rentrés en vélo car oui, le soir je dors
-chez lui et je passe la semaine avec lui et sa famille.
+et enfin le produit que Antidot vend aux grandes entreprises. Le produit 
+s'appelle Fluid Topics, c'est un portail de documentation.C'est à dire que 
+juste en tapant des "Keyswords", des blogs Linkedin apparaissent en rapport
+avec ton mot. Ce portail de documentation sert pour les sites internets 
+de grandes entreprises comme "Konne" pour les ascenseurs. Pour finir, derrière
+Fluid Topics, qui n'est qu'une espèce de moteur de recherche, il y a tous les
+développeurs qui construisent des lignes de codes pour pouvoir faire fonctionner
+Fluid Topics. Pour continué l'après-midi, j'ai enchainé avec une deuxième réunion
+cette fois à distance avec une développeuse d'une certaine équipe "Search". 
+Pareil, elle m'a présenté son métier de développeur/développeuse.Enfin,vers 17h30 
+avec Olivier,nous sommes rentrés en vélo car oui, le soir je dorschez lui et 
+je passe la semaine avec lui et sa famille.
 
 ### Jour 2:
 
@@ -86,17 +93,17 @@ print('aire parallelepipede')
 ```
 
 Ce matin, j'ai continué mon programme Python avec un code de calcul pour calculer
-l'aire et le périmètre d'une figure géométrique . Puis
+l'aire et le périmètre d'une figure géométrique. Puis
 de 11h à 12h, j'ai assissté à une réunion avec plein de membres qui venaient
 d'équipes différentes. Je me suis présenté à eux puis, durant toute la réunion,
 ils ont parlé de sujets différents (ce qui va ou ne va pas dans l'entreprise).
-Ensuite, chaque membre devait présenter l'avancée de son/ses projet(s) et puis 
+Ensuite, chaque membre devait présenter l'avancée de son/ses projet(s) enfin, 
 la réunion s'est terminée. Le midi j'ai déjeuné dans un restaurant: 
 "the Jungle". La décoration était particulièrement acceuillante et te donnait
 l'impression d'être dans une jungle. De plus, le burger et les frites de patates
-douces étaient exellents. L'arpès-midi, j'ai continué mon programme Python mais
+douces étaient exellents. de retour au bureau, L'arpès-midi, j'ai continué mon programme Python mais
 cette fois-ci avec des formes géométriques plus compliquées: le cercle,
-le parallélépipède et le trapèze.
+le parallélépipède et le trapèze, jusqu'à la fin de journée
 
 ### Jour 4:
 
