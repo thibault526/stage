@@ -17,7 +17,7 @@ et enfin le produit que Antidot vend aux grandes entreprises. Juste après j'ai
 enchainé avec une deuxième réunion cette fois à distance avec une développeuse d'une 
 certaine équipe "Search". Pareil, elle m'a présenté son métier de développeur/développeuse.
 Enfin,vers 17h30 avec Olivier,nous sommes rentrés en vélo car oui, le soir je dors
-chez lui et je passe la semaine chez lui et sa famille. 
+chez lui et je passe la semaine avec lui et sa famille.
 
 ### Jour 2:
 
