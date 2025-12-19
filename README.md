@@ -4,7 +4,7 @@
 
 ### Jour 1:
 
-```
+```python
 def thales(a: int|None, b: int|None, c: int|None):
     if a is not None and b is not None:    # si a et b sont definis
         b = a + b
@@ -19,7 +19,7 @@ Tout d'abord, je suis allé à l'entreprise Antidot en vélo avec Olivier. En ar
 
 ### Jour 2:
 
-```
+```python
 def paire(l):    # définit la fonction "paire" (l)
     result = []    # result est une liste vide: []
     for i in l:    # pour i dans l 
@@ -40,7 +40,7 @@ Le matin, je suis allé à l'entreprise en métro car il pleuvait, mais au fur e
 
 ### Jour 3:
 
-```
+```python
 class Parallelepiped:    # modèle pour créer des objets, tous définis dans la class
 
     def __init__(self, l, L):    # définis les états initiaux de l et L
@@ -58,12 +58,6 @@ print(p.perimeter())    # affiche les valeurs contenues dans la fonction perimet
 print('perimetre parallelepiped')    # affiche perimetre parallelepiped
 print(p.area())
 print('aire parallelepiped')
-
-
-
-
-
-
 ```
 
 Ce matin, j'ai continué mon programme Python avec un code de calcul pour calculer l'aire et le périmètre d'une figure géométrique. Puis de 11h à 12h, j'ai assissté à une réunion avec plein de membres qui venaient d'équipes différentes. Je me suis présenté à eux puis, durant toute la réunion, ils ont parlé de sujets différents (ce qui va ou ne va pas dans l'entreprise). Ensuite, chaque membre devait présenter l'avancée de son/ses projet(s) enfin, la réunion s'est terminée. Le midi j'ai déjeuné dans un restaurant:  "the Jungle". La décoration était particulièrement acceuillante et te donnait l'impression d'être dans une jungle. De plus, le burger et les frites de patates douces étaient exellents. de retour au bureau, L'arpès-midi, j'ai continué mon programme Python mais cette fois-ci avec des formes géométriques plus compliquées: le cercle, le parallélépipède et le trapèze, jusqu'à la fin de journée cela m'a pris beaucoup de temps à comprendre le système de codes pour calculer un cercle car il fallait trouver le nombre PI que l'on ne pouvait pas déduire. Cependant, quand j'ai terminé mon programme, j'ai sauté de joie dans tous les bureaux (non, j'abuse peut-être un peu) mais quand même trop content. J'adore cette sensation où je me creuse la tête toute l'après-midi et finalement après 2h d'acharnement j'y arrive enfin. Ce soir-là, moi et Olivier sommes rentrés à la maison en vélo après une grosse journée assez éprouvantes.
