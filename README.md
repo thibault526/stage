@@ -63,28 +63,6 @@ Ce matin, j'ai continué mon programme Python avec un code de calcul pour calcul
 
 ### Jour 4:
 
-```
-auteurs = {
-    "da vinci code": "dan brown",
-    "inferno": "dan brown"}
-
-def build_invert():
-    inverted = {}
-    for titre, auteur in auteurs.items():
-        if auteur not in inverted:
-            inverted[auteur] = []
-        inverted[auteur].append(titre)
-    return inverted
-
-livres = build_invert()
-
-def qui_ecrit(titre):
-    return auteurs[titre]
-
-def qua_ecrit(rauteur):
-    return livres[rauteur]
-```
-
 Durant cette matinée, j'ai découvert le site de github. C'est un logiciel qui te permet d'écrire tout ce que tu veux, n'importe comment. Dessus, j'ai écrit le journal de bord pour mon rapport de stage. Ensuite, Olivier m'a crée un dossier  github me permettant d'écrire mon rapport ou bien qqch d'autre et puis après, github retranscrit mon texte avec une plus belle présentation. De 10h à 12h, plusieurs personnes m'ont expliqué leur métier:
 
 -Benoit est un membre de l'équipe SER. En gros, il s'occupe et surveille à longueur de journée l'état des data centers disposés à Singapour, Ohio et Vitry. L'équipe SER essaye aussi d'automatiser tout le système de vérification. ils utilisent des scripts pour contrôler l'état des ordinateurs à distance comme ça ils n'auront pas à aller les réparer sur place et du coup faire du chemin. Pour vérifier si l'ordinateur est éteint ou pas, ils envoient un PING (message rapide demandant à l'ordinateur si il est éteint ou pas) à l'ordinateur.
