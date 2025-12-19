@@ -8,8 +8,10 @@
 def thales(a: int|None, b: int|None, c: int|None):
     if a is not None and b is not None:    # si a et b sont definis
         b = a + b
-        print(a, b, c, d)    # affiche les valeurs pour suivre le fonctionnement
-        return (d*c)/a    # résoudre le quotient de a par le produit de d par c
+        print(a, b, c, d)    # affiche les valeurs pour suivre
+le fonctionnement
+        return (d*c)/a    # résoudre le quotient de a par le
+produit de d par c
 
 
 
