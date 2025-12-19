@@ -10,6 +10,9 @@ def thales(a: int|None, b: int|None, c: int|None):
         b = a + b
         print(a, b, c, d)    # affiche les valeurs pour suivre le fonctionnement
         return (d*c)/a    # résoudre le quotient de a par le produit de d par c
+
+
+
 ```
 
 Tout d'abord, je suis allé à l'entreprise Antidot en vélo avec Olivier. En arrivant aux bureaux, Olivier (mon tuteur de stage) m'a mis sur un bureau à côté de lui. durant cette première matinée, il m'avait préparé des petites activitées de codages sur le logiciel informatique Python. Sur Python j'ai progammé un code pour résoudre des théorêmes de mathématiques (Pythagore et Thalès). Le midi j'ai mangé avec 5-6 personnes de l'entreprise,  en discutant de sujets diverses. À 14h, j'ai eu une réunion avec l'agente marketing pour qu'elle m'explique son métier, qu'est ce qu'il apporte à l'entreprise ce qu'elle fait pendant la journée, et enfin le produit que Antidot vend aux grandes entreprises. Le produit  s'appelle Fluid Topics, c'est un portail de documentation.C'est à dire que  juste en tapant des "Keyswords", des blogs Linkedin apparaissent en rapport avec ton mot. Ce portail de documentation sert pour les sites internets  de grandes entreprises comme "Konne" pour les ascenseurs. Pour finir, derrière Fluid Topics, qui n'est qu'une espèce de moteur de recherche, il y a tous les développeurs qui construisent des lignes de codes pour pouvoir faire fonctionner Fluid Topics. Pour continué l'après-midi, j'ai enchainé avec une deuxième réunion cette fois à distance avec une développeuse d'une certaine équipe "Search".  Pareil, elle m'a présenté son métier de développeur/développeuse. Enfin, vers 17h30  avec Olivier,nous sommes rentrés en vélo car oui, le soir je dorschez lui et  je passe la semaine avec lui et sa famille.
@@ -55,6 +58,10 @@ print(p.perimeter())    # affiche les valeurs contenues dans la fonction perimet
 print('perimetre parallelepiped')    # affiche perimetre parallelepiped
 print(p.area())
 print('aire parallelepiped')
+
+
+
+
 
 
 ```
