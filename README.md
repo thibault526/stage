@@ -5,12 +5,11 @@
 ### Jour 1:
 
 ```
-def thales(a:int|None,b:int|None,c:int|None):
-    
-        if a is not None and b is not None:
-            b = a + b
-            print(a, b, c, d)
-        return (d*c)/a
+def thales(a: int|None, b: int|None, c: int|None):
+    if a is not None and b is not None:    # si a et b sont definis
+        b = a + b
+        print(a, b, c, d)    # affiche les valeurs pour suivre le fonctionnement
+        return (d*c)/a    # résoudre le quotient de a par le produit de d par c
 ```
 
 Tout d'abord, je suis allé à l'entreprise Antidot en vélo avec Olivier. En arrivant aux bureaux, Olivier (mon tuteur de stage) m'a mis sur un bureau à côté de lui. durant cette première matinée, il m'avait préparé des petites activitées de codages sur le logiciel informatique Python. Sur Python j'ai progammé un code pour résoudre des théorêmes de mathématiques (Pythagore et Thalès). Le midi j'ai mangé avec 5-6 personnes de l'entreprise,  en discutant de sujets diverses. À 14h, j'ai eu une réunion avec l'agente marketing pour qu'elle m'explique son métier, qu'est ce qu'il apporte à l'entreprise ce qu'elle fait pendant la journée, et enfin le produit que Antidot vend aux grandes entreprises. Le produit  s'appelle Fluid Topics, c'est un portail de documentation.C'est à dire que  juste en tapant des "Keyswords", des blogs Linkedin apparaissent en rapport avec ton mot. Ce portail de documentation sert pour les sites internets  de grandes entreprises comme "Konne" pour les ascenseurs. Pour finir, derrière Fluid Topics, qui n'est qu'une espèce de moteur de recherche, il y a tous les développeurs qui construisent des lignes de codes pour pouvoir faire fonctionner Fluid Topics. Pour continué l'après-midi, j'ai enchainé avec une deuxième réunion cette fois à distance avec une développeuse d'une certaine équipe "Search".  Pareil, elle m'a présenté son métier de développeur/développeuse. Enfin, vers 17h30  avec Olivier,nous sommes rentrés en vélo car oui, le soir je dorschez lui et  je passe la semaine avec lui et sa famille.
@@ -18,12 +17,12 @@ Tout d'abord, je suis allé à l'entreprise Antidot en vélo avec Olivier. En ar
 ### Jour 2:
 
 ```
-def paire(l):
-    result = []
-    for i in l:
-        if i % 2 == 0:
-            result.append(i)
-    return result
+def paire(l):    # définit la fonction "paire" (l)
+    result = []    # result est une liste vide: []
+    for i in l:    # pour i dans l 
+        if i % 2 == 0:    # si i est divisible par 2:
+            result.append(i)    # ajouter i dans la liste result
+    return result  
 
 
 def impaire(l):
@@ -39,24 +38,25 @@ Le matin, je suis allé à l'entreprise en métro car il pleuvait, mais au fur e
 ### Jour 3:
 
 ```
-class Parallelepiped:
+class Parallelepiped:    # modèle pour créer des objets, tous définis dans la class
 
-
-    def __init__(self, l, L):
+    def __init__(self, l, L):    # définis les états initiaux de l et L
         self.l = l
         self.L = L
 
-    def perimeter(self):
-        return self.l * 2 + self.L * 2
+    def perimeter(self):    # définis la fonction "perimeter"
+        return self.l * 2 + self.L * 2    #résouds la somme du produit de du produit de 2 fois l et du produit de 2 fois L
 
-    def area(self):
+    def area(self):    # définis la fonction "area"
         return self.l * self.L
 
-p = Parallelepiped(6, 7)
-print(p.perimeter())
-print('perimetre parallelepipede')
+p = Parallelepiped (6, 7)
+print(p.perimeter())    # affiche les valeurs contenues dans la fonction perimeter
+print('perimetre parallelepiped')    # affiche perimetre parallelepiped
 print(p.area())
-print('aire parallelepipede')
+print('aire parallelepiped')
+
+
 ```
 
 Ce matin, j'ai continué mon programme Python avec un code de calcul pour calculer l'aire et le périmètre d'une figure géométrique. Puis de 11h à 12h, j'ai assissté à une réunion avec plein de membres qui venaient d'équipes différentes. Je me suis présenté à eux puis, durant toute la réunion, ils ont parlé de sujets différents (ce qui va ou ne va pas dans l'entreprise). Ensuite, chaque membre devait présenter l'avancée de son/ses projet(s) enfin, la réunion s'est terminée. Le midi j'ai déjeuné dans un restaurant:  "the Jungle". La décoration était particulièrement acceuillante et te donnait l'impression d'être dans une jungle. De plus, le burger et les frites de patates douces étaient exellents. de retour au bureau, L'arpès-midi, j'ai continué mon programme Python mais cette fois-ci avec des formes géométriques plus compliquées: le cercle, le parallélépipède et le trapèze, jusqu'à la fin de journée cela m'a pris beaucoup de temps à comprendre le système de codes pour calculer un cercle car il fallait trouver le nombre PI que l'on ne pouvait pas déduire. Cependant, quand j'ai terminé mon programme, j'ai sauté de joie dans tous les bureaux (non, j'abuse peut-être un peu) mais quand même trop content. J'adore cette sensation où je me creuse la tête toute l'après-midi et finalement après 2h d'acharnement j'y arrive enfin. Ce soir-là, moi et Olivier sommes rentrés à la maison en vélo après une grosse journée assez éprouvantes.
